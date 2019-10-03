@@ -1,3 +1,5 @@
+
+
 ## Profil
 Under min uddannelse, som Cand.Scient på Aalborg Universitet har jeg lært hvordan man arbejder projektorienteret og hvor vigtigt et godt team kan være. Jeg er vant til at arbejde med brugeren i fokus da jeg igennem en iterativ process hele tiden forbedrer mine løsninger sammen med brugeren.
 
