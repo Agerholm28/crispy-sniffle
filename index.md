@@ -1,12 +1,12 @@
 ## Daniel Johansen
 
-#CV
+# CV
 
-#Profil
+# Profil
 
-#Uddannelse
+# Uddannelse
 
-#Erhverserfaring
+# Erhverserfaring
 
 
 
