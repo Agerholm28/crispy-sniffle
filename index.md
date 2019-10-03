@@ -1,5 +1,3 @@
-## Daniel Johansen
-
 # CV
 
 ## Profil
