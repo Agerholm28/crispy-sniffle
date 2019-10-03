@@ -1,31 +1,20 @@
 ## Daniel Johansen
 
-CV
+#CV
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#Profil
 
-```markdown
-Syntax highlighted code block
+#Uddannelse
 
-# Profil
-Testestestsetset
+#Erhverserfaring
 
-## Uddannelse
-testtesttest
-### Erhverserfaring
-testestset
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
 ```
-
+[Link](url) and ![Image](src)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
