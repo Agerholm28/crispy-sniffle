@@ -3,8 +3,6 @@
 ## Profil
 Under min uddannelse, som Cand.Scient på Aalborg Universitet har jeg lært hvordan man arbejder projektorienteret og hvor vigtigt et godt team kan være. Jeg er vant til at arbejde med brugeren i fokus da jeg igennem en iterativ process hele tiden forbedrer mine løsninger sammen med brugeren.
 
-<img src="assets/images/cv_me.jpg">
-
 ## Uddannelse
 2017 - 2019 MSc, Medialogi, Aalborg, Universitet.
 Kompetencer Med min specialisering i interaktion har jeg stor interesse i, at brugeren får den
