@@ -3,10 +3,10 @@
 
 @import "{{ site.theme }}";
 #forkme_banner{display: none !important;}
-.TopMenu{
+/*.TopMenu{
   color: #373737;
   padding: 5px;
-}
+}*/
 a:hover{
 text-decoration: none;
 }
@@ -30,32 +30,32 @@ justify-content: space-evenly;
 /* 
 TOP MENU CSS STARS HERE
 */
-.snip1198{
+.TopMenu{
  display: flex;
 flex-wrap: wrap;
 justify-content: space-evenly;
 padding: 0;
 }
-.snip1198 * {
+.TopMenu * {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   -webkit-transition: all 0.35s ease;
   transition: all 0.35s ease;
 }
-.snip1198 li {
+.TopMenu li {
   display: inline-block;
   list-style: outside none none;
   margin: 0.4em 0.8em;
   padding: 0;
 }
-.snip1198 a {
+.TopMenu a {
   padding: 0 0.7em;
   color: #222222;
   position: relative;
   text-decoration: none;
   display: inline-block;
 }
-.snip1198 a:before {
+.TopMenu a:before {
   position: absolute;
   content: '';
   -webkit-transition: all 0.35s ease;
@@ -68,11 +68,11 @@ padding: 0;
   border-left: 3px solid #27ae60;
   border-right: 3px solid #27ae60;
 }
-.snip1198 a:hover,
-.snip1198 .current a {
+.TopMenu a:hover,
+.TopMenu .current a {
 }
-.snip1198 a:hover:before,
-.snip1198 .current a:before {
+.TopMenu a:hover:before,
+.TopMenu .current a:before {
   opacity: 1;
   left: 0;
   right: 0;
