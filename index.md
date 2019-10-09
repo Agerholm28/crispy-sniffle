@@ -1,10 +1,7 @@
 <ul class="snip1198">
-  <li class="current"><a href="#">Home</a></li>
-  <li><a href="#">About Us</a></li>
-  <li><a href="#">Blog</a></li>
-  <li><a href="#">Services</a></li>
-  <li><a href="#">Products</a></li>
-  <li><a href="#">Contact</a></li>
+  <li class="current"><a href="#">Om Mig</a></li>
+  <li><a href="https://agerholm28.github.io/crispy-sniffle/Uddannelse.html">Uddannelse</a></li>
+  <li><a href="https://agerholm28.github.io/crispy-sniffle/Projekter.html">Projekter</a></li>
 </ul>
 
 <p class="container">
