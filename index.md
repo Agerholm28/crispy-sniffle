@@ -2,6 +2,7 @@
   <li class="current"><a href="#">Om Mig</a></li>
   <li><a href="https://agerholm28.github.io/crispy-sniffle/Uddannelse.html">Uddannelse</a></li>
   <li><a href="https://agerholm28.github.io/crispy-sniffle/Projekter.html">Projekter</a></li>
+  <li><a href="https://agerholm28.github.io/crispy-sniffle/Virksomhedspraktik.html">Virksomhedspraktik</a></li>
 </ul>
 
 <p class="container">
