@@ -1,3 +1,12 @@
+<ul class="snip1198">
+  <li class="current"><a href="#">Home</a></li>
+  <li><a href="#">About Us</a></li>
+  <li><a href="#">Blog</a></li>
+  <li><a href="#">Services</a></li>
+  <li><a href="#">Products</a></li>
+  <li><a href="#">Contact</a></li>
+</ul>
+
 <p class="container">
 <a id="MenuItem1" class="TopMenu" href="https://agerholm28.github.io/crispy-sniffle/Virksomhedspraktik.html">Virksomhedspraktik</a>
 
