@@ -1,4 +1,4 @@
-<ul class="snip1198">
+<ul class="TopMenu">
   <li class="current"><a href="#">Om Mig</a></li>
   <li><a href="https://agerholm28.github.io/crispy-sniffle/Uddannelse.html">Uddannelse</a></li>
   <li><a href="https://agerholm28.github.io/crispy-sniffle/Projekter.html">Projekter</a></li>
