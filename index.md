@@ -32,5 +32,13 @@ indebærer blandt andet at identificere et problem og finde den bedste løsning.
 
 2010 - 2013 HTX, Odense Tekniske Gymnasium.
 
-# Erhverserfaring
+# Erhverserfaring  
+2018 - 3mdr. **Praktik**, *Webudivkler*  
 
+*Opgaver*  
+Udvikling af webshops til diverse kunder, store som små. Har lært hvad det vil sige, at lave en webshop efter en kundes behov. Arbejdet primært med HTML, CSS og JQuery.
+
+2016 - 2019 **Studiejob**, *Webmaster*  
+
+*Opgaver*  
+Startede studiejob i 2006, som fejedreng. Dette har ledt til at jeg i 2016, grundet min uddannelse, blev spurgt om jeg ville lave to hjemmesider for samme firma. Den dag i dag adminstrerer jeg stadig disse to sider og laver af og til diverse justeringer og opdateringer af siderne alt efter behov.
