@@ -9,10 +9,19 @@ Under min uddannelse, som Cand.Scient på Aalborg Universitet har jeg lært hvor
 
 # Uddannelse
 2017 - 2019 MSc, Medialogi, Aalborg, Universitet.
-Kompetencer Med min specialisering i interaktion har jeg stor interesse i, at brugeren får den
+**Kompetencer** 
+Med min specialisering i interaktion har jeg stor interesse i, at brugeren får den
 bedste oplevelse, når de bruger software, jeg har været med til at udvikle.
 
-Programmering Jeg har under min uddannelse fået erfaring med en bred vifte af sprog: C#, C++, Java, HTML, PHP, CSS, Python.
+**Programmering** <\br>
+Jeg har under min uddannelse fået erfaring med en bred vifte af sprog: 
+- C#
+- C++
+- Java
+- HTML
+- PHP
+- CSS
+- Python
 
 2014 - 2017 BSc, Medialogi, Aalborg, Universitet.
 
