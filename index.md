@@ -26,7 +26,7 @@ Jeg har under min uddannelse fået erfaring med en bred vifte af sprog:
 
 2014 - 2017 BSc, Medialogi, Aalborg, Universitet.
 
-**Kompetencer**
+**Kompetencer**  
 Har haft et stort fokus på hvordan man arbejder problembaseret. Dette
 indebærer blandt andet at identificere et problem og finde den bedste løsning. HTX, Odense Tekniske Gymnasium.
 
