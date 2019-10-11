@@ -14,7 +14,7 @@ Under min uddannelse, som Cand.Scient på Aalborg Universitet har jeg lært hvor
 Med min specialisering i interaktion har jeg stor interesse i, at brugeren får den
 bedste oplevelse, når de bruger software, jeg har været med til at udvikle.
 
-**Programmering**
+**Programmering**  
 Jeg har under min uddannelse fået erfaring med en bred vifte af sprog: 
 - C#
 - C++
