@@ -28,7 +28,7 @@ Jeg har under min uddannelse fået erfaring med en bred vifte af sprog:
 
 **Kompetencer**  
 Har haft et stort fokus på hvordan man arbejder problembaseret. Dette
-indebærer blandt andet at identificere et problem og finde den bedste løsning. HTX, Odense Tekniske Gymnasium.
+indebærer blandt andet at identificere et problem og finde den bedste løsning. 
 
 2010 - 2013 HTX, Odense Tekniske Gymnasium.
 
